@@ -27,4 +27,12 @@ Cambiar entre ramas: git checkout nombre-de-la-rama</br>
 Eliminar una rama: git branch -d nombre-de-la-rama</br></br>
 
 Clonar repositorio y traerlo a local:</br>
+git clone "repo https .git"</br></br>
+
+Comandos de Git:</br>
+-Ver estado del repositorio: git status</br>
+-Ver historial de commits: git log</br>
+-ver ramas existentes: git branch</br>
+-Ver remotos configurados: git remote -v</br>
+-Ver configuración de git: git config --list</br>
 
