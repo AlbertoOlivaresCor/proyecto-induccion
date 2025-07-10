@@ -34,5 +34,7 @@ Comandos de Git:</br>
 -Ver historial de commits: git log</br>
 -ver ramas existentes: git branch</br>
 -Ver remotos configurados: git remote -v</br>
--Ver configuración de git: git config --list</br>
+-Ver configuración de git: git config --list</br></br>
+
+Git y Github son herramientas que permiten controlar las versiones, trabajar coordinadamente en equipo, mantener un historial de cambios y desplegar proyectos de manera segura. 
 
